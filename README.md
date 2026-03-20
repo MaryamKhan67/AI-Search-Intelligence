@@ -89,4 +89,4 @@ npm run dev
 ---
 
 ## 🛡️ License
-Built with ❤️ by for [MaryamKhan67](https://github.com/MaryamKhan67).
+Built with ❤️ by [MaryamKhan67](https://github.com/MaryamKhan67).
